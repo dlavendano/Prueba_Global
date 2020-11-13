@@ -15,5 +15,15 @@ namespace WebApplication1.context
         public DbSet<cargo> cargo {get; set;}
         public DbSet<empleado> empleado { get; set; }
         public DbSet<tienda> tienda { get; set; }
+        public DbSet<tiendaEmpleado> tiendaEmpleados { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<tiendaEmpleado>().HasKey(u => new
+            {
+                u.empleadoId,
+                u.tiendaId
+            });
+        }
     }
 }

@@ -175,3 +175,8 @@ D:\Users\Usuario\Documents\webProjects\global\Prueba_Global\WebApplication1\WebA
 D:\Users\Usuario\Documents\webProjects\global\Prueba_Global\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\empleado\Details.cshtml.g.cs
 D:\Users\Usuario\Documents\webProjects\global\Prueba_Global\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\empleado\Edit.cshtml.g.cs
 D:\Users\Usuario\Documents\webProjects\global\Prueba_Global\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\empleado\Index.cshtml.g.cs
+D:\Users\Usuario\Documents\webProjects\global\Prueba_Global\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\tiendas\Create.cshtml.g.cs
+D:\Users\Usuario\Documents\webProjects\global\Prueba_Global\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\tiendas\Delete.cshtml.g.cs
+D:\Users\Usuario\Documents\webProjects\global\Prueba_Global\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\tiendas\Details.cshtml.g.cs
+D:\Users\Usuario\Documents\webProjects\global\Prueba_Global\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\tiendas\Edit.cshtml.g.cs
+D:\Users\Usuario\Documents\webProjects\global\Prueba_Global\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\tiendas\Index.cshtml.g.cs

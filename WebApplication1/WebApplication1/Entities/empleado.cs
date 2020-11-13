@@ -9,6 +9,10 @@ namespace WebApplication1.Entities
 {
     public class empleado
     {
+        public empleado()
+        {
+            this.tiendaEmpleado = new HashSet<tiendaEmpleado>();
+        }
         [Key]
         public int empleadoId { get; set; }
         public string nombre { get; set; }
@@ -17,5 +21,6 @@ namespace WebApplication1.Entities
         public string genero { get; set; }
         [ForeignKey("cargo")]
         public int cargo { get; set; }
+        public virtual ICollection<tiendaEmpleado> tiendaEmpleado { get; set;}
     }
 }
